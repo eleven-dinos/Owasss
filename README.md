@@ -1,21 +1,22 @@
 <h1 align="center">Hi 👋, I'm Muhammad Awais</h1>
-<h3 align="center">Senior Software Engineer | Backend & Cloud Systems</h3>
+<h3 align="center">Software Engineer | Backend & Cloud Systems</h3>
 
 <p align="center">
 Software Engineer experienced in building scalable, cloud-native SaaS platforms and distributed backend systems.
 Specialized in Node.js, TypeScript, AWS/GCP, event-driven architectures, and high-volume data processing.
 </p>
 
-- 💼 Senior Software Engineer working on **large-scale, multi-tenant SaaS systems**
+- 💼 Software Engineer worked on **large-scale, multi-tenant SaaS systems**
 - ⚙️ Backend focus: **Node.js, TypeScript, REST APIs, Async & Event-Driven Systems**
 - ☁️ Cloud: **AWS (ECS, Fargate, Lambda), GCP (Cloud Functions, Pub/Sub)**
 - 🔄 DevOps: **Docker, CI/CD (GitHub Actions), Zero-downtime deployments**
-- 📫 Reach me at: **awaismanzoor825@gmail.com**
+- 📫 Reach me at: **work.awais.825@gmail.com**
+- Contact: +353851723312
 - ⚡ Fun fact: I enjoy designing systems that scale before they break 😄
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/muhammad-awais-ab3583223/" target="blank">
+<a href="[https://www.linkedin.com/in/muhammad-awais-ab3583223/](https://www.linkedin.com/in/muhammad-awais-040791438/)" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Muhammad Awais" height="30" width="40" />
 </a>
 </p>
